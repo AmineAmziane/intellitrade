@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/intellitrade/static/css/main.e1978e43.chunk.css",
-    "main.js": "/intellitrade/static/js/main.22e736fc.chunk.js",
-    "main.js.map": "/intellitrade/static/js/main.22e736fc.chunk.js.map",
+    "main.css": "/intellitrade/static/css/main.320c4a7f.chunk.css",
+    "main.js": "/intellitrade/static/js/main.ab10133e.chunk.js",
+    "main.js.map": "/intellitrade/static/js/main.ab10133e.chunk.js.map",
     "runtime-main.js": "/intellitrade/static/js/runtime-main.40048411.js",
     "runtime-main.js.map": "/intellitrade/static/js/runtime-main.40048411.js.map",
     "static/js/2.ebd6f092.chunk.js": "/intellitrade/static/js/2.ebd6f092.chunk.js",
     "static/js/2.ebd6f092.chunk.js.map": "/intellitrade/static/js/2.ebd6f092.chunk.js.map",
     "index.html": "/intellitrade/index.html",
-    "precache-manifest.69c7e88a0e7e98badff285aa581f074b.js": "/intellitrade/precache-manifest.69c7e88a0e7e98badff285aa581f074b.js",
+    "precache-manifest.b07b8ecdd38bd81290bde70f03b988e6.js": "/intellitrade/precache-manifest.b07b8ecdd38bd81290bde70f03b988e6.js",
     "service-worker.js": "/intellitrade/service-worker.js",
-    "static/css/main.e1978e43.chunk.css.map": "/intellitrade/static/css/main.e1978e43.chunk.css.map",
+    "static/css/main.320c4a7f.chunk.css.map": "/intellitrade/static/css/main.320c4a7f.chunk.css.map",
     "static/js/2.ebd6f092.chunk.js.LICENSE.txt": "/intellitrade/static/js/2.ebd6f092.chunk.js.LICENSE.txt",
     "static/media/Intellitrade-Vector-01.svg": "/intellitrade/static/media/Intellitrade-Vector-01.df39c89a.svg",
     "static/media/Path.svg": "/intellitrade/static/media/Path.8e4544fd.svg",
@@ -24,14 +24,14 @@
     "static/media/price.svg": "/intellitrade/static/media/price.1d6db39a.svg",
     "static/media/refund.svg": "/intellitrade/static/media/refund.bffadb79.svg",
     "static/media/shema.svg": "/intellitrade/static/media/shema.9fe682ef.svg",
-    "static/media/svgphone.svg": "/intellitrade/static/media/svgphone.9a10e753.svg",
+    "static/media/svgphone.png": "/intellitrade/static/media/svgphone.40136f62.png",
     "static/media/tw.svg": "/intellitrade/static/media/tw.78b88c23.svg",
     "static/media/vector2.svg": "/intellitrade/static/media/vector2.c5614154.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.40048411.js",
     "static/js/2.ebd6f092.chunk.js",
-    "static/css/main.e1978e43.chunk.css",
-    "static/js/main.22e736fc.chunk.js"
+    "static/css/main.320c4a7f.chunk.css",
+    "static/js/main.ab10133e.chunk.js"
   ]
 }
