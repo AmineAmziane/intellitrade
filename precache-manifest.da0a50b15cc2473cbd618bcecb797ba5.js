@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92247d1711334def56977976d22b2ee1",
+    "revision": "ee1486ba5ee9685945dc2441a30dc63e",
     "url": "/intellitrade/index.html"
   },
   {
-    "revision": "cb1be4d8a156e8570e16",
-    "url": "/intellitrade/static/css/main.320c4a7f.chunk.css"
+    "revision": "88f525defafad3cc71d9",
+    "url": "/intellitrade/static/css/main.b6ec392d.chunk.css"
   },
   {
     "revision": "e8762a8fea594c52e8f4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/intellitrade/static/js/2.ebd6f092.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb1be4d8a156e8570e16",
-    "url": "/intellitrade/static/js/main.ab10133e.chunk.js"
+    "revision": "88f525defafad3cc71d9",
+    "url": "/intellitrade/static/js/main.a8d24fed.chunk.js"
   },
   {
     "revision": "d1b71c85d77d772f68dc",

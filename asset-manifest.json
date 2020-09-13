@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/intellitrade/static/css/main.320c4a7f.chunk.css",
-    "main.js": "/intellitrade/static/js/main.ab10133e.chunk.js",
-    "main.js.map": "/intellitrade/static/js/main.ab10133e.chunk.js.map",
+    "main.css": "/intellitrade/static/css/main.b6ec392d.chunk.css",
+    "main.js": "/intellitrade/static/js/main.a8d24fed.chunk.js",
+    "main.js.map": "/intellitrade/static/js/main.a8d24fed.chunk.js.map",
     "runtime-main.js": "/intellitrade/static/js/runtime-main.40048411.js",
     "runtime-main.js.map": "/intellitrade/static/js/runtime-main.40048411.js.map",
     "static/js/2.ebd6f092.chunk.js": "/intellitrade/static/js/2.ebd6f092.chunk.js",
     "static/js/2.ebd6f092.chunk.js.map": "/intellitrade/static/js/2.ebd6f092.chunk.js.map",
     "index.html": "/intellitrade/index.html",
-    "precache-manifest.b07b8ecdd38bd81290bde70f03b988e6.js": "/intellitrade/precache-manifest.b07b8ecdd38bd81290bde70f03b988e6.js",
+    "precache-manifest.da0a50b15cc2473cbd618bcecb797ba5.js": "/intellitrade/precache-manifest.da0a50b15cc2473cbd618bcecb797ba5.js",
     "service-worker.js": "/intellitrade/service-worker.js",
-    "static/css/main.320c4a7f.chunk.css.map": "/intellitrade/static/css/main.320c4a7f.chunk.css.map",
+    "static/css/main.b6ec392d.chunk.css.map": "/intellitrade/static/css/main.b6ec392d.chunk.css.map",
     "static/js/2.ebd6f092.chunk.js.LICENSE.txt": "/intellitrade/static/js/2.ebd6f092.chunk.js.LICENSE.txt",
     "static/media/Intellitrade-Vector-01.svg": "/intellitrade/static/media/Intellitrade-Vector-01.df39c89a.svg",
     "static/media/Path.svg": "/intellitrade/static/media/Path.8e4544fd.svg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.40048411.js",
     "static/js/2.ebd6f092.chunk.js",
-    "static/css/main.320c4a7f.chunk.css",
-    "static/js/main.ab10133e.chunk.js"
+    "static/css/main.b6ec392d.chunk.css",
+    "static/js/main.a8d24fed.chunk.js"
   ]
 }
